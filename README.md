@@ -1,4 +1,8 @@
 # I-Ticket Power BI Dashboard 📊
+![Screenshot 2024-11-28 170240](https://github.com/user-attachments/assets/bc09928d-b35f-4eab-9678-821d99360bc2)
+![Screenshot 2024-11-28 170411](https://github.com/user-attachments/assets/96eeb1a8-9a7a-424e-8d5f-8287942d32cd)
+![Screenshot 2024-11-28 170354](https://github.com/user-attachments/assets/a805eca5-9851-4562-89cc-b8120eb571d9)
+![Screenshot 2024-11-28 170329](https://github.com/user-attachments/assets/cbc825f0-e7aa-438d-af88-c9cebca58ae0)
 
 ## Dashboard Overview
 
